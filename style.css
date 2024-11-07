@@ -1,0 +1,33 @@
+body{
+	background-color: lightblue;
+	color: white;
+	font-family: "Rowdies";
+}
+
+.container{
+	background-color: lightpink;
+	border-radius: 30px;
+}
+
+img{
+	width: 360px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.rowdies-light {
+  font-family: "Rowdies", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.rowdies-regular {
+  font-family: "Rowdies", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rowdies-bold {
+  font-family: "Rowdies", serif;
+  font-weight: 700;
+  font-style: normal;
+}
